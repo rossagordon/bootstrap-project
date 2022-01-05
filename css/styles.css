@@ -20,10 +20,6 @@ p {
     font-size: 1.1em !important;
 }
 
-.carousel {
-
-  }
-
 .carousel-caption {
     position: absolute;
     transform: translateY(-50%);
@@ -43,7 +39,4 @@ p {
     font-family: 'Cormorant Garamond', serif;
 }
 
-.carousel-button {
-    
-}
 
