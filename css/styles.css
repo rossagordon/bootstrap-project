@@ -21,8 +21,8 @@ p {
 }
 
 .carousel-caption {
-    position: absolute;
-    transform: translateY(-50%);
+    position: absolute; */
+    /* /* transform: translateY(-50%); */
 }
 
 .column {
